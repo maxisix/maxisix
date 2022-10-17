@@ -1,8 +1,8 @@
 ### Montreal-based Front-End Developer. I build awesome products for my clients.
 
 👨🏼‍💻 building [maximebeaudoin.com][website]  
-🧠 learning [remix][remix]  
-💜 loving [react][react], [nextjs][next], [typescript][typescript], [linaria][linaria] 
+📚 learning [remix][remix]  
+🔥 specializations [react][react], [nextjs][next], [typescript][typescript], [linaria][linaria] 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
