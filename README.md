@@ -2,7 +2,7 @@
 
 👨🏼‍💻 building [maximebeaudoin.com][website]  
 📚 learning [remix][remix]  
-🔥 specializations [react][react], [nextjs][next], [typescript][typescript], [linaria][linaria] 
+🔥 specializations [react][react], [nextjs][next], [typescript][typescript], [tailwind][tailwind] 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -10,9 +10,9 @@
 
 [react]: http://reactjs.org
 [next]: https://nextjs.org
-[remix]: https://remix.run/
+[remix]: https://remix.run
 [typescript]: https://www.typescriptlang.org
-[linaria]: https://github.com/callstack/linaria
-[website]: https://www.maximebeaudoin.com/
+[tailwind]: https://tailwindcss.com
+[website]: https://www.maximebeaudoin.com
 [twitter]: twitter.com/maxisix
-[linkedin]: https://www.linkedin.com/in/mabeaudoin/
+[linkedin]: https://www.linkedin.com/in/mabeaudoin
